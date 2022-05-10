@@ -1,10 +1,13 @@
 # YTU-RACING-
+
 Hello everyone! In this article, we will talk about the aluminum Voltage 
 Indicator PCB we designed for our electric vehicle YTR08E by YTU Racing in 
 the Formula Student competition, the world's most prestigious undergraduate 
 engineering competition, attended by university students from all over the world 
 who are interested in motor racing.
 ![](https://raw.githubusercontent.com/BerntMaier/YTU-RACING-/main/son%20makale%20fotosu.jpeg)
+
+
 
 **Details;**
 ![](https://raw.githubusercontent.com/BerntMaier/YTU-RACING-/main/7984231649968692002.png)
@@ -39,6 +42,8 @@ our circuits.
 
 ![](https://raw.githubusercontent.com/BerntMaier/YTU-RACING-/main/jlc%20sayfa.jpg)
 
+
+
 This design is sponsored by JLCPCB. After designing the circuit however you 
 want, you can order your PCB and get it to your hand in a short time! We would 
 like to thank JLCPCB for their support and we are very satisfied with the service 
@@ -51,6 +56,10 @@ order page You are even able to change PCB color for free. You can change the
 shipping method. JLCPCB ensures the delivery PCB to your hand for 3 days! 
 You can check the website of JLCPCB. We want to thank again to JLCPCB for 
 the great quality of its service.
+
+https://jlcpcb.com/smt-assembly
+https://jlcpcb.com/parts
+
 JLCPCB SMT Parts Library has 200k+ in-stock components (689 Basic 
 components and 200k+ Extended components)
 You can build your library Inventory, save parts for now or in the future 
