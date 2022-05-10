@@ -1,5 +1,4 @@
 # YTU-RACING-
-
 Hello everyone! In this article, we will talk about the aluminum Voltage 
 Indicator PCB we designed for our electric vehicle YTR08E by YTU Racing in 
 the Formula Student competition, the world's most prestigious undergraduate 
